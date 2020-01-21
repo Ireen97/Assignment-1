@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <title>Hickies Originals</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    <a class="btn" href="#"><i class="ion-ios-arrow-down"></i></a>
+.dot1 {
+  height: 25px;
+  width: 25px;
+  background-color: rgba(151, 4, 4, 0.705); 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot2 {
+  height: 25px;
+  width: 25px;
+  background-color:rgb(46, 12, 199); 
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+.dot3{
+  height: 25px;
+  width: 25px;
+  background-color:black; 
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot4{
+  height: 25px;
+  width: 25px;
+  background-color:white; 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot5{
+  height: 25px;
+  width: 25px;
+  background-color:orange; 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot6{
+  height: 25px;
+  width: 25px;
+  background-color:yellow; 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot7{
+  height: 25px;
+  width: 25px;
+  background-color:blue; 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot8{
+  height: 25px;
+  width: 25px;
+  background-color:rgba(55, 55, 182, 0.521); 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot9{
+  height: 25px;
+  width: 25px;
+  background-color:rgb(245, 203, 151); 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot10{
+  height: 25px;
+  width: 25px;
+  background-color:rgba(11, 161, 199, 0.685); 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot11{
+  height: 25px;
+  width: 25px;
+  background-color: rgb(11, 221, 11); 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot12{
+  height: 25px;
+  width: 25px;
+  background-color:rgb(238, 9, 226); 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot13{
+  height: 25px;
+  width: 25px;
+  background-color:rgb(207, 171, 126); 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot14{
+  height: 25px;
+  width: 25px;
+  background-color:rgb(2, 99, 15); 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot15{
+  height: 25px;
+  width: 25px;
+  background-color: gray; 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot16{
+  height: 25px;
+  width: 25px;
+  background-color:rgba(102, 19, 19, 0.877); 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot17{
+  height: 25px;
+  width: 25px;
+  background-color:rgba(11, 226, 226, 0.842); 
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot18{
+  height: 25px;
+  width: 25px;
+  background-color:rgb(190, 184, 184); 
+  border-radius: 50%;
+  display: inline-block;
+}
+</style>
+  
+</head>
+
+
+
+<body>
+    <h1>HICKIES Originals</h1>
+
+<!--Ratings & Reviews-->
+    <div>
+        <blockquote> 
+            <span class="fa fa-star"></span>
+            <span class="fa fa-star"></span>
+            <span class="fa fa-star"></span>
+            <span class="fa fa-star"></span>
+            <span class="fa fa-star"></span>
+        </blockquote>
+
+    </div>
+
+<!--Price, Promotion & Slogan-->
+<div class="row">
+    <div class="col-sm-2">
+      <P style="color:red" ><font size="10">$14.99</font><blockquote></blockquote><p style="color:gray"> $17.99 </p></blockquote></blockquote></p>
+
+    <div class="col-sm-2">
+      <p style="color:gray"> 25% OFF </p>
+      <br>
+    </div>
+
+  </div>
+
+    <div>
+        <blockquote><p> ONLINE EXCLUSIVE</p></blockquote>
+
+        <p> <strong>COLOR:</strong></p>
+    </div>
+
+<!--Color selection/ Product-->    
+<div style="text-align:left">
+    <button class ="button"><span class="dot1"></span></button>
+    <button class ="button"><span class="dot2"></span></button>
+    <button class ="button"><span class="dot3"></span></button>
+    <button class ="button"><span class="dot4"></span></button>
+    <button class ="button"><span class="dot5"></span></button>
+    <button class ="button"><span class="dot6"></span></button>
+    <button class ="button"><span class="dot7"></span></button>
+    <button class ="button"><span class="dot8"></span></button>
+    <button class ="button"><span class="dot9"></span></button>
+    <button class ="button"><span class="dot10"></span></button>
+    <button class ="button"><span class="dot11"></span></button>
+    <br>
+    <button class ="button"><span class="dot12"></span></button>
+    <button class ="button"><span class="dot13"></span></button>
+    <button class ="button"><span class="dot14"></span></button>
+    <button class ="button"><span class="dot15"></span></button>
+    <button class ="button"><span class="dot16"></span></button>
+    <button class ="button"><span class="dot17"></span></button>
+    <button class ="button"><span class="dot18"></span></button>
+  
+  </div>
+
+<!--Create the circle icons for selection-->
+    <br> 
+        <p>Size Guide</p>
+        <p>Your Custom Fit</p>
+    </div>
+<!--Cart Functionality (Modal)-->
+
+<!--Footer-->
+     <hr>
+        <br>
+        <blockquote><p> DETAILS</p></blockquote>
+        <br>
+     <hr> 
+
+     <br>
+            <p> Need help?</p>
+            <p>Shopping & Returns</p>
+
+</html>
+
